@@ -59,7 +59,7 @@ section{
     font-weight: 700;
 
 }
-,paragraph{
+.paragraph{
     padding-bottom: 50px;
 }
 #live{
@@ -69,4 +69,19 @@ section{
 #live-project{
     text-align: center;
     font-size: 50px;
+}
+
+.blog{
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    height: 80%;
+    
+}
+.chat-now{
+    background-image: url(images/chat.png);
+    width: 50%;
+    background-position: center;
+}
+#chat{
+    text-decoration: none;
 }
