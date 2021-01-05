@@ -1,0 +1,72 @@
+.topnav{
+    text-align: right;
+    
+    
+}
+body{
+    
+    font-size: 15px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+    font-size: 50px;
+    color: coral;
+}
+h2{
+    font-size: 45px;
+}
+.half-width{
+
+    
+   
+    width:40%;
+    float: left;
+    margin-left: 5%;
+    margin-bottom: 3px;
+    padding-left: 2%;
+}
+.half-width img{
+    position: center;
+    width: 200px;
+}
+section{
+    height: 250px;
+    padding-bottom: 40px;
+}
+.live-project{
+    background-color: beige;
+    height: 400px;
+}
+.project{
+    width:25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.project img{
+    position: center;
+    width: 336px;
+    
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+
+}
+,paragraph{
+    padding-bottom: 50px;
+}
+#live{
+    color: coral;
+    position: center;
+}
+#live-project{
+    text-align: center;
+    font-size: 50px;
+}
