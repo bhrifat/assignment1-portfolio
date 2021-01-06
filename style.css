@@ -3,6 +3,10 @@
     
     
 }
+.topnav a{ 
+    padding: 5px 10px;
+    text-decoration: none;
+}
 body{
     
     font-size: 15px;
@@ -11,10 +15,13 @@ body{
 }
 h1{
     font-size: 50px;
-    color: coral;
+    color: #FF8367;
 }
 h2{
     font-size: 45px;
+}
+#about-color{
+    color: #363958;
 }
 .half-width{
 
@@ -35,7 +42,7 @@ section{
     padding-bottom: 40px;
 }
 .live-project{
-    background-color: beige;
+    background-color: #F6F6F6;
     height: 400px;
 }
 .project{
@@ -69,19 +76,13 @@ section{
 #live-project{
     text-align: center;
     font-size: 50px;
+    font-weight: bold;
+    color: #363958;
 }
 
 .blog{
-    box-shadow: 10px 10px 20px gray;
-    border-radius: 10px;
-    height: 80%;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 15px;
+    height: 82%;
     
-}
-.chat-now{
-    background-image: url(images/chat.png);
-    width: 50%;
-    background-position: center;
-}
-#chat{
-    text-decoration: none;
 }
