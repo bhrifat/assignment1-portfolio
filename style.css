@@ -108,3 +108,12 @@ section{
    margin-left: 53%;
    
 }
+
+footer{
+    margin-top: 10%;
+    text-align: center;
+}
+footer div img{
+    width: 50px;
+    padding-left: 25px;
+}
