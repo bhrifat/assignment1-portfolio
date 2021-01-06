@@ -23,10 +23,8 @@ h2{
 #about-color{
     color: #363958;
 }
-.half-width{
 
-    
-   
+.half-width{
     width:40%;
     float: left;
     margin-left: 5%;
@@ -35,7 +33,7 @@ h2{
 }
 .half-width img{
     position: center;
-    width: 200px;
+    width: 240px;
 }
 section{
     height: 250px;
@@ -43,7 +41,7 @@ section{
 }
 .live-project{
     padding-top: 20px;
-    background-color: #F6F6F6;
+    background-color: #f6f6f6;
     height: 400px;
 }
 .project{
