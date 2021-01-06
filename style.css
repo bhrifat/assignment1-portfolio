@@ -36,7 +36,7 @@ h2{
     width: 240px;
 }
 section{
-    height: 250px;
+    height: 300px;
     padding-bottom: 40px;
 }
 .live-project{
@@ -78,6 +78,7 @@ section{
     font-size: 50px;
     font-weight: bold;
     color: #363958;
+    margin-bottom: 20px;
 }
 
 .blog{
@@ -162,4 +163,3 @@ h3{
     color:#FF8367;
 
 }
-#bb2402
