@@ -42,6 +42,7 @@ section{
     padding-bottom: 40px;
 }
 .live-project{
+    padding-top: 20px;
     background-color: #F6F6F6;
     height: 400px;
 }
@@ -85,4 +86,25 @@ section{
     border-radius: 15px;
     height: 82%;
     
+}
+
+.chat-now{
+    background-image: url(images/chat.png);
+    height: 70%;
+    
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    margin-top: 5%;
+}
+#work{
+    margin-top: 20px;
+    font-size: 25px;
+    font-weight: 900;
+    margin-left: 40%;
+    padding: 20px 40px;
+}
+#chat{
+   margin-left: 53%;
+   
 }
